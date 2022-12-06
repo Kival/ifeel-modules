@@ -6,6 +6,12 @@ Yeah, it's as cool as Lego! ;-D
 
 ------
 
+## iFeel Overview
+
+![ifeel-overview](images/ifeel-overview.jpg)
+
+------
+
 ## Modules
 
 There are several modules in iFeel Modules. Here is a quick overview:
